@@ -1,0 +1,23 @@
+{
+  "name": "webserver",
+  "version": "1.0.0",
+  "description": "Servidor web de demostración",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gentoosiasta/backend.git"
+  },
+  "keywords": [
+    "webserver",
+    "server"
+  ],
+  "author": "Julio Aguilar Carmona",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gentoosiasta/backend/issues"
+  },
+  "homepage": "https://github.com/gentoosiasta/backend#readme"
+}
